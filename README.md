@@ -16,16 +16,13 @@
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
-[![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/camillacorreia/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/camillacorreia/)
-[![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/camillacorreia/)
 
 **Others Technologies**
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
