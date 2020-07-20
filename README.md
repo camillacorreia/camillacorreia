@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-:woman_technologist: <strong>I'm a fullstack developer</strong>
+:woman_technologist: <strong>I'm a frontend developer</strong>
 
 :page_with_curl: **Estou postando dicas do mundo da tecnologia no [Instagram](https://www.instagram.com/srtacorreia/)**
 
