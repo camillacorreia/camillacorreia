@@ -21,13 +21,15 @@
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/camillacorreia/)
 [![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)](https://github.com/camillacorreia/)
 
+**Design**
+[![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/ildaneta/)
+
 **Others Technologies**
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 
 **Database**
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 
 **IDE**
@@ -36,7 +38,7 @@
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/ildaneta/)](https://github.com/camillacorreia/)
 
 :rocket: From [Camilla](https://github.com/camillacorreia)
