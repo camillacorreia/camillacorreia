@@ -4,7 +4,7 @@
 
 :woman_technologist: <strong>I'm a frontend developer</strong>
 
-:page_with_curl: **Estou postando dicas do mundo da tecnologia no [Instagram](https://www.instagram.com/srtacorreia/)**
+:page_with_curl: **Estou postando dicas do mundo da tecnologia no [Instagram](https://www.instagram.com/codemilla/)**
 
 :raising_hand: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
