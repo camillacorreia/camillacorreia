@@ -39,7 +39,6 @@
 
 **Database**
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Tests**
 [![Jest](https://img.shields.io/badge/-Jest-D36D9D?style=flat-square&logo=jest&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
@@ -48,6 +47,11 @@
 
 **CMS**
 [![Strapi](https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=Strapi&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+
+**Deploy**
+[![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/camillacorreia/)
+[![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/camillacorreia/)
+[![AWS S3](https://img.shields.io/badge/-AWS%20S3-DBDBE0?style=flat-square&logo=amazon)](https://github.com/camillacorreia/)
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
