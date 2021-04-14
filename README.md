@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-:woman_technologist: <strong>I'm a full stack developer</strong>
+:woman_technologist: <strong>I'm a front-end developer</strong>
 
 :page_with_curl: **Estou postando dicas do mundo da tecnologia no [Instagram](https://www.instagram.com/codemilla/)**
 
