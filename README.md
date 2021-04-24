@@ -43,16 +43,19 @@
 
 **Tests**
 [![Jest](https://img.shields.io/badge/-Jest-D36D9D?style=flat-square&logo=jest&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Cypress](https://img.shields.io/badge/-Cypress-434959?style=flat-square&logo=cypress&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Testing Library](https://img.shields.io/badge/-Testing%20Library-434959?style=flat-square&logo=testing-library&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Jasmine](https://img.shields.io/badge/-Jasmine-434959?style=flat-square&logo=jasmine&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Karma](https://img.shields.io/badge/-Karma-434959?style=flat-square&logo=karma&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Cypress](https://img.shields.io/badge/-Cypress-434959?style=flat-square&logo=cypress&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Protractor](https://img.shields.io/badge/-Protractor-434959?style=flat-square&logo=protractor&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **CMS**
 [![Strapi](https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=Strapi&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![GraphCMS](https://img.shields.io/badge/-GraphCMS-141518?style=flat-square&logo=graphcms&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Deploy**
 [![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/camillacorreia/)
+[![Vercel](https://img.shields.io/badge/-Vercel-141518?style=flat-square&logo=vercel)](https://github.com/camillacorreia/)
 [![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/camillacorreia/)
 [![AWS S3](https://img.shields.io/badge/-AWS%20S3-DBDBE0?style=flat-square&logo=amazon)](https://github.com/camillacorreia/)
 
