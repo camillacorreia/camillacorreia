@@ -2,7 +2,9 @@
 
 ## Sobre mim
 
-:woman_technologist: <strong>I'm a front-end developer</strong>
+:woman_technologist: <strong>Front-end Software Engineer at PicPay</strong>
+
+:mortar_board: <strong>Graduanda em Ciência e Tecnologia na UFBA</strong>
 
 :page_with_curl: **Estou postando dicas do mundo da tecnologia no [Instagram](https://www.instagram.com/codemilla/)**
 
