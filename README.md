@@ -20,11 +20,10 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next.js&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-pink?style=flat-square&logo=styled-components)](https://github.com/camillacorreia/)
 [![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/camillacorreia/)
-
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/camillacorreia/)
@@ -66,5 +65,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 
 :rocket: From [Camilla](https://github.com/camillacorreia)
