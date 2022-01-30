@@ -2,11 +2,9 @@
 
 ## Sobre mim
 
-:woman_technologist: <strong>Front-end Software Engineer at PicPay</strong>
+:woman_technologist: <strong>Software Engineer</strong>
 
 :mortar_board: <strong>Graduanda em Ciência e Tecnologia na UFBA</strong>
-
-:page_with_curl: **Estou postando dicas do mundo da tecnologia no [Instagram](https://www.instagram.com/codemilla/)**
 
 :raising_hand: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
