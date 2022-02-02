@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-:woman_technologist: <strong>Software Engineer</strong>
+:woman_technologist: <strong>Software Engineer at @jusbrasil</strong>
 
 :mortar_board: <strong>Graduanda em Ciência e Tecnologia na UFBA</strong>
 
