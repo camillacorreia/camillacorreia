@@ -13,6 +13,7 @@
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![JavaScript](https://img.shields.io/badge/-Scala-C41B02?style=flat-square&logo=scala&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Front-end**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
@@ -30,8 +31,9 @@
 **Others Technologies**
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-DBDBE0?style=flat-square&logo=graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Relay](https://img.shields.io/badge/-Relay-F26B00?style=flat-square&logo=relay&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![StoryBook](https://img.shields.io/badge/-Storybook-DBDBE0?style=flat-square&logo=Storybook&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Babel](https://img.shields.io/badge/-Babel-F5C30F?style=flat-square&logo=Babel&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Webpack](https://img.shields.io/badge/-Webpack-86A7DC?style=flat-square&logo=Webpack&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
@@ -40,7 +42,6 @@
 
 **Database**
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-DBDBE0?style=flat-square&logo=postgresql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![FaunaDB](https://img.shields.io/badge/-FaunaDB-DBDBE0?style=flat-square&logo=faunadb&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Tests**
 [![Jest](https://img.shields.io/badge/-Jest-D36D9D?style=flat-square&logo=jest&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
@@ -60,7 +61,6 @@
 [![Vercel](https://img.shields.io/badge/-Vercel-141518?style=flat-square&logo=vercel)](https://github.com/camillacorreia/)
 [![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/camillacorreia/)
 [![AWS S3](https://img.shields.io/badge/-AWS%20S3-DBDBE0?style=flat-square&logo=amazon)](https://github.com/camillacorreia/)
-[![Hardness](https://img.shields.io/badge/-Hardness-DBDBE0?style=flat-square&logo=hardness)](https://github.com/camillacorreia/)
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
