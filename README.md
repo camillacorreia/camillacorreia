@@ -34,33 +34,31 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Relay](https://img.shields.io/badge/-Relay-F26B00?style=flat-square&logo=relay&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![StoryBook](https://img.shields.io/badge/-Storybook-DBDBE0?style=flat-square&logo=Storybook&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![StoryBook](https://img.shields.io/badge/-Storybook-434959?style=flat-square&logo=Storybook&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Babel](https://img.shields.io/badge/-Babel-F5C30F?style=flat-square&logo=Babel&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Webpack](https://img.shields.io/badge/-Webpack-86A7DC?style=flat-square&logo=Webpack&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Postman](https://img.shields.io/badge/-Postman-DBDBE0?style=flat-square&logo=Postman&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Postman](https://img.shields.io/badge/-Postman-434959?style=flat-square&logo=Postman&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Postman](https://img.shields.io/badge/-Swagger-434959?style=flat-square&logo=Swagger&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Database**
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-DBDBE0?style=flat-square&logo=postgresql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Tests**
 [![Jest](https://img.shields.io/badge/-Jest-D36D9D?style=flat-square&logo=jest&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Testing Library](https://img.shields.io/badge/-Testing%20Library-434959?style=flat-square&logo=testing-library&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Jasmine](https://img.shields.io/badge/-Jasmine-434959?style=flat-square&logo=jasmine&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Karma](https://img.shields.io/badge/-Karma-434959?style=flat-square&logo=karma&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-FC859D?style=flat-square&logo=testing-library&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Cypress](https://img.shields.io/badge/-Cypress-434959?style=flat-square&logo=cypress&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Protractor](https://img.shields.io/badge/-Protractor-434959?style=flat-square&logo=protractor&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **CMS**
 [![Strapi](https://img.shields.io/badge/-Strapi-8E75FF?style=flat-square&logo=Strapi&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![GraphCMS](https://img.shields.io/badge/-GraphCMS-141518?style=flat-square&logo=graphcms&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![GraphCMS](https://img.shields.io/badge/-GraphCMS-5327D6?style=flat-square&logo=graphcms&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Prismic CMS](https://img.shields.io/badge/-PrismicCMS-DBDBE0?style=flat-square&logo=prismic&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
 **Deploy**
 [![Netlify](https://img.shields.io/badge/-Netlify-DBDBE0?style=flat-square&logo=netlify)](https://github.com/camillacorreia/)
 [![Vercel](https://img.shields.io/badge/-Vercel-141518?style=flat-square&logo=vercel)](https://github.com/camillacorreia/)
 [![Heroku](https://img.shields.io/badge/-Heroku-9994CD?style=flat-square&logo=heroku)](https://github.com/camillacorreia/)
-[![AWS S3](https://img.shields.io/badge/-AWS%20S3-DBDBE0?style=flat-square&logo=amazon)](https://github.com/camillacorreia/)
+[![AWS](https://img.shields.io/badge/-AWS-DBDBE0?style=flat-square&logo=amazon)](https://github.com/camillacorreia/)
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
