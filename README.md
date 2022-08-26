@@ -13,7 +13,7 @@
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![C](https://img.shields.io/badge/-3849AC?style=flat-square&logo=c&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![C](https://img.shields.io/badge/-++-3849AC?style=flat-square&logo=c&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Python](https://img.shields.io/badge/-Python-FFD341?style=flat-square&logo=python&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Scala](https://img.shields.io/badge/-Scala-C41B02?style=flat-square&logo=scala&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
