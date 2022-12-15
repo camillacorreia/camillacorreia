@@ -32,11 +32,12 @@
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/camillacorreia/)
 
 **Others Technologies**
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-DBDBE0?style=flat-square&logo=Spring&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![StoryBook](https://img.shields.io/badge/-Storybook-434959?style=flat-square&logo=Storybook&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Babel](https://img.shields.io/badge/-Babel-F5C30F?style=flat-square&logo=Babel&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=Babel&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Webpack](https://img.shields.io/badge/-Webpack-86A7DC?style=flat-square&logo=Webpack&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Postman](https://img.shields.io/badge/-Postman-434959?style=flat-square&logo=Postman&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
@@ -44,6 +45,7 @@
 
 **Database**
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-DBDBE0?style=flat-square&logo=postgresql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![MySQL](https://img.shields.io/badge/-MySQL-DBECF2?style=flat-square&logo=mysql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-019C91?style=flat-square&logo=elasticsearch&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Metabase](https://img.shields.io/badge/-Metabase-DBDBE0?style=flat-square&logo=metabase&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 
