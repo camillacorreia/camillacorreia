@@ -33,6 +33,7 @@
 
 **Others Technologies**
 [![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
+[![Nest](https://img.shields.io/badge/-NestJs-E0234D?style=flat-square&logo=NestJs&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-DBDBE0?style=flat-square&logo=Spring&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
