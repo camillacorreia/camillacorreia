@@ -2,11 +2,9 @@
 
 ## Sobre mim
 
-:woman_technologist: <strong>Software Engineer at @jusbrasil</strong>
+:woman_technologist: <strong>Full Stack Software Engineer at @jusbrasil</strong>
 
 :mortar_board: <strong>Graduanda em Ciência e Tecnologia na UFBA</strong>
-
-:raising_hand: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
 ## Conhecimento
 
@@ -38,8 +36,6 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E535AB?style=flat-square&logo=graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![StoryBook](https://img.shields.io/badge/-Storybook-434959?style=flat-square&logo=Storybook&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=Babel&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
-[![Webpack](https://img.shields.io/badge/-Webpack-86A7DC?style=flat-square&logo=Webpack&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Postman](https://img.shields.io/badge/-Postman-434959?style=flat-square&logo=Postman&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
 [![Swagger](https://img.shields.io/badge/-Swagger-434959?style=flat-square&logo=Swagger&link=https://github.com/camillacorreia/)](https://github.com/camillacorreia/)
