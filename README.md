@@ -4,7 +4,7 @@
 
 :woman_technologist: <strong>Full Stack Software Engineer at @jusbrasil</strong>
 
-:mortar_board: <strong>Graduanda em Ciência e Tecnologia na UFBA</strong>
+:mortar_board: <strong>Graduada em Ciência e Tecnologia pela UFBA</strong>
 
 ## Conhecimento
 
