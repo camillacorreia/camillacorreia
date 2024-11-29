@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Camilla Correia | Software Engineer
+# 👩🏽‍💻 Camilla Correia | Sênior Software Engineer
 
 ### 🌍 Languages
 
@@ -13,24 +13,24 @@ _Universidade Federal da Bahia_
 
 ### 💼 Professional
 
-_Full Stack Software Engineer at [Jusbrasil](https://www.jusbrasil.com.br/)_
+_Sênior Software Engineer at [Jusbrasil](https://www.jusbrasil.com.br/)_
 
 ### 💻 Technologies and Tools
 
-- **Languages**: JavaScript/TypeScript, Java, Scala, Python, Go
-- **Front-End**: React, Angular, Next.js, Styled-components, Sass, Bootstrap
-- **Design**: Figma
-- **Back-End**: Node.js, NestJS, Spring Boot
-- **ORMs**: Hibernate, TypeORM, Prisma
-- **Query Languages/Databases**: GraphQL, MySQL, PostgreSQL, SQLite, Google Cloud Bigtable
-- **Testing**: Testing Library, Enzyme, Jest, Jasmine, Karma, Cypress, Protractor
-- **CMS**: Strapi, GraphCMS, Prismic CMS
-- **Containerization and Orchestration:**: Docker, Kubernetes
-- **Messaging and Streaming:**: Kafka, RabbitMQ
-- **Cloud Platforms:**: Google Cloud Platform, Heroku (PaaS), Vercel (PaaS), Netlify (PaaS).
-- **Monitoring and Observability:**: Grafana, Graylog, Prometheus
-- **Dashboards**: Metabase.
-- **Low-Code**: Retool.
+- **Languages::** JavaScript/TypeScript, Java, Scala, Python, Go
+- **Front-End::** React, Angular, Next.js, Styled-components, Sass, Bootstrap
+- **Design::** Figma
+- **Back-End::** Node.js, NestJS, Spring Boot
+- **ORMs::** Hibernate, TypeORM, Prisma
+- **Query Languages/Databases::** GraphQL, MySQL, PostgreSQL, SQLite, Google Cloud Bigtable, Elasticsearch
+- **Testing::** Testing Library, Enzyme, Jest, Jasmine, Karma, Cypress, Protractor
+- **CMS::** Strapi, GraphCMS, Prismic CMS
+- **Containerization and Orchestration::** Docker, Kubernetes
+- **Messaging and Streaming::** Kafka, RabbitMQ
+- **Cloud Platforms::** Google Cloud Platform, Heroku (PaaS), Vercel (PaaS), Netlify (PaaS)
+- **Monitoring and Observability::** Grafana, Graylog, Prometheus
+- **Dashboards::** Metabase
+- **Low-Code::** Retool
 
 ### 🚀 About Me
 
