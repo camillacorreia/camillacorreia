@@ -4,7 +4,7 @@
 
 - 🇧🇷 **Portuguese**: Native
 - 🇦🇷 **Spanish**: B2 (Advanced Intermediate)
-- 🇺🇸 **English**: A2 (Basic Intermediate)
+- 🇺🇸 **English**: B1 (Intermediate)
 
 ### 🎓 Education
 
