@@ -1,5 +1,7 @@
 # 👩🏽‍💻 Camilla Correia | Sênior Software Engineer
 
+[Curriculum Vitae](https://camillacorreia.github.io/job-resume.github.io/)
+
 ### 🌍 Languages
 
 - 🇧🇷 **Portuguese**: Native
